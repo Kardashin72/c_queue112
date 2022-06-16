@@ -1,0 +1,4 @@
+﻿  Main.cpp
+C:\Users\HYPERPC\OneDrive\Рабочий стол\Studies\classroom\RingQueue112\RingQueue112\Main.cpp(3,13): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+C:\Users\HYPERPC\OneDrive\Рабочий стол\Studies\classroom\RingQueue112\RingQueue112\cqueue.h(35): warning C4715: c_queue112::operator=: значение возвращается не при всех путях выполнения
+  RingQueue112.vcxproj -> C:\Users\HYPERPC\OneDrive\Рабочий стол\Studies\classroom\RingQueue112\x64\Debug\RingQueue112.exe
